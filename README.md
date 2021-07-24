@@ -25,3 +25,4 @@ Final xslx output files will be saved to the `output` directory.
 * Add support for further image formats (currently limited to bmp, jpeg, and png)
 * Give users the choice on whether to reduce image dimensions or reduce the colour profile (made possible by [converting color pallets](https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.Image.convert)). 
 * Parameterize tests
+* Complete test suite 
